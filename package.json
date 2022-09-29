@@ -7,7 +7,7 @@
     "react": "^16.2.0",
     "react-dom": "^16.13.1",
     "react-scripts": "1.0.17",
-    "victory": "^0.24.3"
+    "victory": "^36.6.8"
   },
   "scripts": {
     "start": "react-scripts start",
